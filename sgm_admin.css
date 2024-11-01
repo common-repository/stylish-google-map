@@ -1,0 +1,12 @@
+/*
+ * Styles for the Stylish Google Map Widget
+ *
+ */
+ 
+.sgm_widget .widget_input {
+	margin-bottom: 10px;
+}
+.sgm_widget input[type="text"], .sgm_widget input[type="email"], .sgm_widget textarea, .sgm_widget select {
+	max-width: 450px;
+	width: 100%;
+}
